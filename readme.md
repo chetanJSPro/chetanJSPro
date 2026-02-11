@@ -1,105 +1,160 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Chetan</h1>
+<h3 align="center">A Passionate Full-Stack / Frontend Developer from India 🇮🇳</h3>
 
-🔭 I'm currently working on **building modern web applications and expanding my portfolio**<br>
-🌐 Check out my portfolio: [chetan.pro](https://chetan.pro)<br>
-🌱 I'm currently learning **advanced JavaScript, full-stack development & modern frameworks**<br>
-👯 I'm looking to collaborate on **open-source projects and innovative web solutions**<br>
-💬 Ask me about **JavaScript, Web Development, Frontend & Backend Technologies**<br>
-⚡ Fun fact: **I turn coffee into code and ideas into reality!**<br>
-📫 How to reach me: **Visit [chetan.pro](https://chetan.pro) for contact info**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chetanJSPro&label=Profile%20views&color=0e75b6&style=flat" alt="chetanJSPro" />
+  <a href="https://github.com/chetanJSPro?tab=followers">
+    <img src="https://img.shields.io/github/followers/chetanJSPro?label=Followers&style=social" alt="GitHub followers">
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chetanJSPro&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="chetanJSPro" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://chetan.pro)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chetanJSPro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME)
-
-
-# 💻 Tech Stack:
-
-### Languages:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Frontend:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-### Backend:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a]08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-### Tools & Platforms:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-# 📊 GitHub Stats:
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=chetanJSPro&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chetanJSPro&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanJSPro&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-
-## 🏆 GitHub Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=chetanJSPro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-
-## 🔝 Top Contributed Repo
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=chetanJSPro&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</div>
-
-
-### ✍️ Random Dev Quote
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-
-### 🔥 Contribution Graph
-[![Chetan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chetanJSPro&theme=redical)](https://github.com/chetanJSPro)
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595f47756f3232544f6563644839564454424c4f6e4f68636152396238" />
 
 ---
 
-<div align="center">
+### 🧑‍💻 About Me
 
-### 🌟 Show some ❤️ by starring some of the repositories!
+- 🔭 I'm currently working on **exciting web projects**
+- 🌱 I'm currently learning **Advanced JavaScript, React, Node.js & more**
+- 👨‍💻 All of my projects are available at **[chetan.pro](https://chetan.pro)**
+- 💬 Ask me about **JavaScript, React, HTML, CSS, Node.js**
+- 📫 How to reach me: **[chetan.pro](https://chetan.pro)**
+- ⚡ Fun fact: **I think I'm funny... and I code while listening to lo-fi 🎧**
 
-[![](https://visitcount.itsvg.in/api?id=chetanJSPro&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
-**🌐 Portfolio: [chetan.pro](https://chetan.pro)**
+### 🌐 Connect with me:
 
-</div>
+<p align="left">
+  <a href="https://chetan.pro" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-chetan.pro-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio"/>
+  </a>
+  <a href="https://github.com/chetanJSPro" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-chetanJSPro-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  <!-- Add more social links below as needed -->
+  <!--
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+  -->
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chetanJSPro&show_icons=true&theme=radical&locale=en" alt="chetanJSPro" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetanJSPro&theme=radical" alt="chetanJSPro" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanJSPro&show_icons=true&theme=radical&locale=en&layout=compact" alt="chetanJSPro" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/chetanJSPro/chetanJSPro/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetanJSPro&theme=react-dark&bg_color=20232a&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ If you like my projects, give them a star! ⭐</b>
+</p>
